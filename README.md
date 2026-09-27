@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-CodeBench](https://github.com/anote-ai/Research-CodeBench).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # CodeBench
 
 > **Measuring reliable, secure code generation by AI coding agents — beyond inflated pass@k scores.**
